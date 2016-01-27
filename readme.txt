@@ -9,3 +9,5 @@ Creating a new branch is quick and simple
 
 Add merge.
 
+Git stash is a bug branch.
+
